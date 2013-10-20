@@ -7,5 +7,7 @@ scanf("%d", &n);
 for (i=1;i<=n;i++) {
 suma=suma+(i*i);
 }
-printf("Suma kwadratow wynosi: %d\n", suma);}
+printf("Suma kwadratow wynosi: %d\n", suma);
+return 0;
+}
 ```
